@@ -186,7 +186,7 @@ Please add your sprint here!
 
 ### sktime - ML/AI toolbox for time series!
 
-- Number of people: ~10 (2 organizers)
+- Number of people: ~12 (2 organizers)
 - Room: RB 104
 - Python Level: any
 - Contact: sktime developers - meetup or help-desk on Discord
